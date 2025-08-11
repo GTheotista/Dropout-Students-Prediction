@@ -20,7 +20,7 @@ Student retention is a critical challenge for higher education institutions. Whe
 3. Provide actionable insights to support early intervention strategies.  
 
 ### Business Impact
-- With a recall of ~0.95, the model can identify most students at risk of dropping out.  
+- Best model can identify most students at risk of dropping out.  
 - Enables early academic and financial interventions, reducing dropout rates and improving retention.  
 - Supports data-driven resource allocation and policy planning.
 
